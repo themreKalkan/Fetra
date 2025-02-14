@@ -1,0 +1,13 @@
+Fetra	KEYWORD1
+sensorPins	KEYWORD2
+setLineThick	KEYWORD2
+setSensBtwDist	KEYWORD2
+calibrate	KEYWORD2
+linePosition	KEYWORD2
+getAnalogReads	KEYWORD2
+calibratedAnalog	KEYWORD2
+lineDensity	KEYWORD2
+lineDensAdvanced	KEYWORD2
+lineAngle	KEYWORD2
+setLineColorBlack	KEYWORD3
+setLineColorWhite	KEYWORD3
