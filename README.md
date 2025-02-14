@@ -12,7 +12,7 @@ The **Fetra Library** is an Arduino library designed to simplify the process of 
 - **Configurable**: Allows you to set the number of sensors, line thickness, distance between sensors, and line color (black or white).
 
 ## Installation
-
+Download the .ZIP and add to your Arduino library or:
 1. Download the `Fetra` library files (`Fetra.h` and `Fetra.cpp`).
 2. Place the files in a folder named `Fetra` inside your Arduino libraries directory (usually `Documents/Arduino/libraries/`).
 3. Restart the Arduino IDE to recognize the new library.
