@@ -9,6 +9,7 @@ The **Fetra Library** is an Arduino library designed to simplify the process of 
 - **Line Density**: Provides a measure of how dense the line is under the sensors.
 - **Advanced Line Density**: Takes into account the distance between sensors for more accurate density calculations.
 - **Line Angle**: Calculates the angle of the line relative to the sensors.
+- **Dashed Line Position**: Normal line position function but its follow the dashed or dot lines without any changes.
 - **Configurable**: Allows you to set the number of sensors, line thickness, distance between sensors, and line color (black or white).
 
 ## Installation
