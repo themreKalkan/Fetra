@@ -11,3 +11,7 @@ lineDensAdvanced	KEYWORD2
 lineAngle	KEYWORD2
 setLineColorBlack	KEYWORD3
 setLineColorWhite	KEYWORD3
+lineAnglePure	KEYWORD3
+dashedLinePosition	KEYWORD3
+calibrateForAll	KEYWORD3
+calibrateOnce	KEYWORD3
