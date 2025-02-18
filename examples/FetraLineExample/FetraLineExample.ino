@@ -51,7 +51,7 @@ void loop() {
     Serial.println(position);
 
     //You can use this code for dashed lines in your track. If the last position of line is straight and there is no line position output set on middle value for go straight
-    uint16_t position = fetra.linePosition();
+    uint16_t position = fetra.dashedLinePosition();
     Serial.print("Line Position: ");
     Serial.println(position);
 
